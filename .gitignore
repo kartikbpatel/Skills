@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python (skill-creator tooling)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Claude Code — machine-local permissions, personal to this checkout
+.claude/settings.local.json
+
+# Vendored third-party skills — reinstallable from skills-lock.json
+.agents/
+.claude/skills/
+
+# Eval workspaces produced by skill-creator runs
+*-workspace/

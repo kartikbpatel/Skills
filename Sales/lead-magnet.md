@@ -2,6 +2,7 @@
 name: lead-magnet
 version: 1.0.0
 author: Kartik Patel
+category: Sales
 description: "Lead magnet creation, follow-up nurturing sequences, payment collection scripts, and closing call frameworks for coaches and consultants. Based on $100M Offers and $100M Leads philosophy — increase certainty, reduce friction, and match commitment to where the prospect is."
 metadata: {"nexscope":{"emoji":"🧲","category":"sales"}}
 ---
