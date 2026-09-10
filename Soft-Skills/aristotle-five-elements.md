@@ -12,14 +12,16 @@ description: >-
   when they ask how to make numbers land or a complex topic understandable; when someone else is defining
   the narrative on their topic; or when they want a talk built on a personal through-line. Reach for it even
   if they never say storytelling - if the deliverable is facts that must persuade, this applies.
-source: "Palki Sharma Upadhyay — 'The Art of Storytelling' / 'Mind the Gap' (WOX NEWS)"
+source: "Palki Sharma Upadhyay — 'The Art of Storytelling in the News World', TEDxMICA (https://www.ted.com/talks/palki_sharma_upadhyay_the_art_of_storytelling_in_the_news_world) · YouTube mirror: https://www.youtube.com/watch?v=JwHCOI8V4LQ"
+created: 2026-08-22
+updated: 2026-08-22
 ---
 
 # Storytelling: Aristotle's Five Elements
 
 A playbook for the case where you are not short of material — you are short of a reason for anyone to spend time on it. Most information-heavy writing fails not because the facts are wrong but because the facts arrive with no authority, no feeling, nothing to hold on to, and no end in sight.
 
-Palki Sharma Upadhyay built India's first international prime-time news show around these ideas after concluding that every channel had the same facts, the same guests, and the same graphics — so the only remaining variable was the telling.
+Palki Sharma Upadhyay built India's first international prime-time news show, at WION, around these ideas after concluding that every channel had the same facts, the same guests, and the same graphics — so the only remaining variable was the telling.
 
 ## The premise: katha and kathakar
 

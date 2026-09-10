@@ -3,6 +3,8 @@ name: storytelling-three-ingredients
 category: Storytelling
 description: Make a story actually land using Vinh Giang's three ingredients — Be Specific (sensory detail), Relive Don't Report (present tense, one vivid detail per beat), and Share the Meaning ("the reason I'm telling you this is because…") — plus the 15-minute rule for deciding whether to tell a story at all. Use this skill whenever a story, anecdote, case study, keynote, or personal example reads flat, generic, or summarised; when the user says people don't remember or react to their stories; when turning facts or data into something memorable; when a talk, post, or pitch needs a takeaway the audience can map onto themselves; or when someone says their life isn't interesting enough to have stories worth telling.
 source: "Vinh Giang — 'The ONLY 3 Ingredients You Need To Be A Better Storyteller!' (https://www.youtube.com/watch?v=5HfeNDleTS4)"
+created: 2026-08-19
+updated: 2026-08-22
 ---
 
 # The Three Ingredients of Storytelling

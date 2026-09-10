@@ -5,6 +5,8 @@ author: Kartik Patel
 category: Sales
 description: "Lead magnet creation, follow-up nurturing sequences, payment collection scripts, and closing call frameworks for coaches and consultants. Based on $100M Offers and $100M Leads philosophy — increase certainty, reduce friction, and match commitment to where the prospect is."
 metadata: {"nexscope":{"emoji":"🧲","category":"sales"}}
+created: 2026-07-22
+updated: 2026-08-30
 ---
 
 # Lead Magnet 🧲
@@ -368,3 +370,9 @@ Each resource must answer: **"Will this help them get more qualified appointment
 5. **Stay on the call until payment completes** — don't end the call on a promise
 6. **Surface real objections** — ask open questions, not yes/no questions
 7. **Frame payments as enabling preparation** — not as collecting money
+
+---
+
+## Related skills
+
+- **[Cold Calling](cold-calling.md)** — the stage before this one. If you're initiating contact with strangers from a list (openers, the 30-second rule, BANT qualification on the call, booking the meeting), use Cold Calling. This skill takes over once a prospect is already engaged or has said yes: nurturing sequences, payment collection, and the closing call.

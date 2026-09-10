@@ -3,6 +3,8 @@ name: pattern-recognition
 category: Critical Thinking
 description: Diagnose business and career situations through five pattern lenses — People, Systems, Temporal, Data, and Market — to find root causes, surface hidden variables, stress-test explanations, and turn observations into decisions. Use this skill whenever the user asks why a metric moved, why a deal stalled, why a launch failed or succeeded, what they might be missing, whether a trend will hold, how to position against a competitor, or how to read a stakeholder — and for any pre-mortem, post-mortem, forecast, or "should we do X" judgment call. Trigger it even when the user only describes a confusing outcome without asking a clear question, because the failure this skill exists to prevent is accepting the first plausible explanation.
 source: "The Cutting Edge School — '5 Non-AI Skills That Pay More Than Your Degree' (https://www.youtube.com/watch?v=iuI5JlLkV9k)"
+created: 2026-08-21
+updated: 2026-08-22
 ---
 
 # Pattern Recognition

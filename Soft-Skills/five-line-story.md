@@ -3,6 +3,8 @@ name: storytelling-5-lines
 category: Storytelling
 description: Write, structure, and review any story using Tim Runia's 5-Line Story Method — Situation, Desire, Conflict, Change, Result — then expand the 5 lines into a full script (10, 20, or more lines) without losing the emotional core. Use this skill whenever the user wants to plan a video, script, presentation, case study, or anecdote; is stuck outlining or "lost in the details"; wants to find the core of a messy draft; or asks to check whether a story "actually works."
 source: "Tim Runia — 'The ONLY 5 Lines You Need To Tell Any Story' (https://www.youtube.com/watch?v=NeTJRCycYXQ)"
+created: 2026-08-19
+updated: 2026-08-22
 ---
 
 # The 5-Line Story Method

@@ -3,6 +3,8 @@ name: storytelling-dopamine-ladder
 category: Storytelling
 description: Write and review story-driven content (video scripts, hooks, Reels/Shorts/TikTok, YouTube long-form, and other narrative content) using the Dopamine Ladder — a six-level retention framework (Stimulation → Captivation → Anticipation → Validation → Affection → Revelation). Use this skill whenever the user asks to write a video script, hook, or story; improve retention or watch time; critique a draft script or content idea; make content "addictive" or "engaging"; or mentions storytelling, hooks, curiosity loops, or viewer drop-off — even if they don't name the framework.
 source: "Kallaway's Dopamine Ladder framework (https://kallaway.co)"
+created: 2026-08-19
+updated: 2026-08-22
 ---
 
 # Storytelling with the Dopamine Ladder
