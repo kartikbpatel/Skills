@@ -85,6 +85,8 @@ Filenames are lowercase kebab-case with no category prefix; the category lives i
 
 ## Contributing
 
+New here, or handing this repo to another agent or account? Read **[CONTEXT.md](CONTEXT.md)** first — it covers the conventions behind these files, the cross-link map between overlapping skills, and what's still open.
+
 To add a new skill:
 
 1. Put it in the right top-level folder — a **business function** (`Sales/`, `Finance/`, `Marketing/`, `Operations/`), `Soft-Skills/` for craft and judgment, or `Philosophy/` for wisdom-tradition material used as a framework. Set `category:` in the frontmatter to the sub-category you want it grouped under.
