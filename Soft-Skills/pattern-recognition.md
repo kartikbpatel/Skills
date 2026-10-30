@@ -4,7 +4,7 @@ category: Critical Thinking
 description: Diagnose business and career situations through five pattern lenses — People, Systems, Temporal, Data, and Market — to find root causes, surface hidden variables, stress-test explanations, and turn observations into decisions. Use this skill whenever the user asks why a metric moved, why a deal stalled, why a launch failed or succeeded, what they might be missing, whether a trend will hold, how to position against a competitor, or how to read a stakeholder — and for any pre-mortem, post-mortem, forecast, or "should we do X" judgment call. Trigger it even when the user only describes a confusing outcome without asking a clear question, because the failure this skill exists to prevent is accepting the first plausible explanation.
 source: "The Cutting Edge School — '5 Non-AI Skills That Pay More Than Your Degree' (https://www.youtube.com/watch?v=iuI5JlLkV9k)"
 created: 2026-08-21
-updated: 2026-08-22
+updated: 2026-09-15
 ---
 
 # Pattern Recognition
@@ -189,3 +189,7 @@ If a score has no proof attached, it's a 2.
 - **Forced analogies.** A prior case that only rhymes gives false confidence in a specific number.
 - **Taking stated reasons at face value.** In People and Market work, the stated reason and the real one are routinely different.
 - **Fabricated specifics.** Never invent a benchmark, a competitor's price, or a market size to fill a gap. Say the number is unknown and say what it would take to get it — an invented figure destroys the whole analysis, because the user can no longer trust any of it.
+
+## Related skills
+
+- **[Ashtavakra Gita](../Philosophy/ashtavakra-gita.md)** — the complement for a different question. This skill diagnoses the *situation*: what caused the outcome, what's really going on, what to do next. That one diagnoses the person's *relationship to* the situation, and is for distress that outlives the cause — "revenue is fine and I still wake up at 4am." When someone brings a business problem with visible distress, run this one first; the practical layer usually is the answer, and reaching for non-dual framing on a solvable problem is a way of not solving it.
